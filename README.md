@@ -2,7 +2,6 @@ minlite13 NOTE:
 -28/01/2013
 - I have build the kernel and the kmsg is the same az attached by NONAMER..
 
-I think the issues is that our init files are for 2.6 kernels and they can't run on 3. So this seems to be the problem.
 
 NONAMER NOTE:
 -i'll make what i can for this time, kernel compiling well with "test_bravo_defconfig" but not booting
